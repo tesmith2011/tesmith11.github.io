@@ -1,0 +1,10 @@
+body {
+  font-family: 'calibri', arial, sans-serif;
+  font-weight: 250;
+  background-image: url();
+  background-repeat: repeat;
+}
+#wrapper {
+  width: 100px;
+  margin: 20px auto 20px auto;
+}
